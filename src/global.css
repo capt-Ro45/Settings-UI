@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-merriweather: Merriweather;
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-sm: 0.88rem;
+
+  /* Colors */
+  --color-ghostwhite: #edeff6;
+  --color-white: #fff;
+  --a0938: #0a0938;
+  --color-slategray: #757599;
+  --color-dodgerblue: #788eff;
+
+  /* Gaps */
+  --gap-25xl: 2.75rem;
+  --gap-base: 1rem;
+  --gap-6xs: 0.44rem;
+  --gap-xs: 0.75rem;
+  --gap-xl: 1.25rem;
+  --gap-9xs: 0.25rem;
+
+  /* Paddings */
+  --padding-27xl: 2.88rem;
+  --padding-base: 1rem;
+  --padding-5xl: 1.5rem;
+  --padding-13xl: 2rem;
+  --padding-9xs: 0.25rem;
+
+  /* Border radiuses */
+  --br-5xl: 24px;
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-6xl: 25px;
+  --br-sm: 14px;
+}

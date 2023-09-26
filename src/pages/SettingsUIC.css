@@ -1,0 +1,16 @@
+.settings-ui-c-child {
+  position: absolute;
+  top: 16.38rem;
+  left: 25.69rem;
+  border-radius: 32px;
+  background-color: var(--color-dodgerblue);
+  width: 48rem;
+  height: 31.06rem;
+}
+.settings-ui-c {
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 75rem;
+  overflow: hidden;
+}
